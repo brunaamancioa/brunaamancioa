@@ -2,7 +2,7 @@
 <p align="left"> 
   Olá, meu nome é Bruna e atuo como <strong>desenvolvedora front-end</strong>.<br>
   Além dessa função, sou designer gráfico e técnica em tecnologia da informação. <br>
-  Atualmente, estou cursando ciência da computação na Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
+  Atualmente estou cursando ciência da computação na Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
 </p>
 
 <p align="left">
