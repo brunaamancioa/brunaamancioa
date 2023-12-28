@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🫧 Você pode me encontrar também em: 
+  🫧 Você pode entrar em contato por: 
 </p>
 
 <p align="left">
