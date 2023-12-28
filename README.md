@@ -14,15 +14,15 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:brunaamancio1@gmail.com" alt="Gmail"/></a>
+  <a href="mailto:brunaamancio1@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" alt="Gmail"/></a>
 
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunaamancioa" alt="LinkedIn"/></a>
+  <a href="[#](https://linkedin.com/in/brunaamancioa)" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" alt="LinkedIn"/></a>
 
-  <a href="#" title="WhatsApp">
+  <a href="[#](https://api.whatsapp.com/send/?phone=5521982005810&text&type=phone_number&app_absent=0)" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 
-  <a href="#" title="Instagram">
+  <a href="[#](https://www.instagram.com/amandsgn/)" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[LINK-DO-SEU-INSTAGRAM](https://www.instagram.com/amandsgn/)https://www.instagram.com/amandsgn/" alt="Instagram"/></a>
 </p>
