@@ -1,4 +1,3 @@
-<img src="https://drive.google.com/file/d/1J_p_rN19LXaXInwtq046kiIBWHXhNmFN/view?usp=sharing" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Olá, sou a Bruna e sou <strong>desenvolvedora front-end</strong>.<br>
