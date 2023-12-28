@@ -1,7 +1,8 @@
 
 <p align="left"> 
-  Olá, sou a Bruna e sou <strong>desenvolvedora front-end</strong>.<br>
-  Além de desenvolvedora, sou designer gráfico, técnica em tecnologia da informação e graduanda de ciência da computação da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
+  Olá, meu nome é Bruna e atuo como <strong>desenvolvedora front-end</strong>.<br>
+  Além dessa função, sou designer gráfico e técnica em tecnologia da informação.
+  Atualmente, estou cursando ciência da computação na Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
 </p>
 
 <p align="left">
