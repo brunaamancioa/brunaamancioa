@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, sou a Bruna e eu sou <strong>desenvolvedora front-end</strong>.<br>
+  Olá, sou a Bruna e sou <strong>desenvolvedora front-end</strong>.<br>
   Além de desenvolvedora, sou designer gráfico, técnica em tecnologia da informação e graduanda de ciência da computação da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
 </p>
 
 <p align="left">
-  🦄 Linguagens: HTML | CSS | JavaScript
+  🤍 Linguagens: HTML | CSS | JavaScript
 </p>
 
 <p align="left">
-  💌 Você pode me encontrar também em: ⤵️
+  🫧 Você pode me encontrar também em: 
 </p>
 
 <p align="left">
