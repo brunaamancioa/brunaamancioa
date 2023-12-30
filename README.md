@@ -19,11 +19,5 @@
 
   <a href="https://linkedin.com/in/brunaamancioa" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" alt="LinkedIn"/></a>
-
-  <a href="https://api.whatsapp.com/send/?phone=5521982005810&text&type=phone_number&app_absent=0" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=" alt="WhatsApp"/></a>
-
-  <a href="https://www.instagram.com/amandsgn/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/></a>
   
 </p>
