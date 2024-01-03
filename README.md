@@ -18,6 +18,6 @@
   <img src="https://img.shields.io/badge/-Gmail-FFCBDB?style=flat-square&labelColor=FFCBDB&logo=gmail&logoColor=black&link=" alt="Gmail"/></a>
 
   <a href="https://linkedin.com/in/brunaamancioa" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-C8A2C8?style=flat-square&logo=Linkedin&logoColor=black&link=" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-B5A5BB?style=flat-square&logo=Linkedin&logoColor=white&link=" alt="LinkedIn"/></a>
   
 </p>
