@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="mailto:brunaamancio1@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FFCBDB?style=flat-square&labelColor=FFCBDB&logo=gmail&logoColor=black&link=" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-e57d90?style=flat-square&labelColor=e57d90&logo=gmail&logoColor=white&link=" alt="Gmail"/></a>
 
   <a href="https://linkedin.com/in/brunaamancioa" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-967491?style=flat-square&logo=Linkedin&logoColor=white&link=" alt="LinkedIn"/></a>
