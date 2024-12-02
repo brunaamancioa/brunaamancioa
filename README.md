@@ -19,8 +19,5 @@
 
   <a href="https://linkedin.com/in/brunaamancioa" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-967491?style=flat-square&logo=Linkedin&logoColor=white&link=" alt="LinkedIn"/></a>
-
-  <a href="https://www.instagram.com/brumcode/" title="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-779ECB?style=flat-square&logo=instagram&logoColor=white&link=" alt="Instagram" /></a>
   
 </p>
